@@ -61,7 +61,7 @@ php artisan migrate
 
 ```
 
-** 5. Jalankan Aplikasi**
+**5. Jalankan Aplikasi**
 
 ```bash
 php artisan serve
