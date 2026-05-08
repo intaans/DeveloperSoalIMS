@@ -68,4 +68,4 @@ php artisan serve
 
 ```
 
-**Dibuat oleh: Intan Sanu **
+**Dibuat oleh: Intan Sanu**
