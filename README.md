@@ -5,8 +5,11 @@ Project ini adalah penyelesaian tes teknis untuk posisi Junior IT Developer di P
 **Fitur Utama**
 
 Soal 1: Simulasi kalkulasi kredit dengan input OTR, DP, dan Tenor secara dinamis.
+
 Soal 2: Query untuk menampilkan total angsuran yang jatuh tempo hingga 14 Agustus 2024.
+
 Soal 3: Query kalkulasi denda keterlambatan berdasarkan selisih hari (`DATEDIFF`).
+
 
 **Teknologi yang Digunakan**
 Backend: Laravel (PHP).
